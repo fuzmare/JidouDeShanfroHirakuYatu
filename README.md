@@ -1,0 +1,2 @@
+# JidouDeShanfroHirakuYatu
+自動でシャンフロ開くやつ
